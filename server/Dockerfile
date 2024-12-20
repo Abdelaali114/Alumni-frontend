@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 3001
 
-CMD npmp start
+CMD npm start
